@@ -1,0 +1,5 @@
+{:deps {org.neo4j/neo4j {:mvn/version "3.4.0"}
+        org.neo4j/neo4j-cypher {:mvn/version "3.4.0"}
+        org.neo4j.driver/neo4j-java-driver {:mvn/version "1.6.1"}
+        clj-time {:mvn/version "0.14.4"}}
+ :paths ["src"]}
